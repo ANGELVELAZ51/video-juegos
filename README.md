@@ -32,10 +32,16 @@
 
 * Lección 1
   * > El carro hacia adelante en la pista esquivando los obstaculos que se presentan, ya sean rocas, objetos de carretera, barriles, etc.
+- [Prototipo 1](./Prototipo%201.unitypackage)
 
 * Lección 2
   * > El humano descide alimentar a sus animales con carne, lanzandola hacia ellos mientras los animales se dirigen hacia él, una vez que se los animales tocan la comida se destruye el objeto.
-
+- [Prototype 2 - Starter Files](./Prototype-2_Starter-Files.unitypackage)
+- [Pasos de Prototipo 2](Pasos%20de%20prototipo%202.pdf)
+- 
+* Challenge 1
+* > Consiste en agregar las funcionalidades correctas como avanzar en linea recta a un costado, que la camara lo siga y que la helice gire de acuerdo a una velocidad que se planteo. 
+- [Challenge 1 - Start](./Challenge-1_Start.unitypackage)
 
 
 ## Autor
