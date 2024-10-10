@@ -32,7 +32,7 @@
 
 * Lección 1
   * > El carro hacia adelante en la pista esquivando los obstaculos que se presentan, ya sean rocas, objetos de carretera, barriles, etc.
-- [Prototipo 1](./Prototipo%201.unitypackage)
+- [Prototipo 1](Prototipo%201.unitypackage)
 
 * Lección 2
   * > El humano descide alimentar a sus animales con carne, lanzandola hacia ellos mientras los animales se dirigen hacia él, una vez que se los animales tocan la comida se destruye el objeto.
