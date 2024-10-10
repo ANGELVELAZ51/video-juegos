@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="https://evadformacion.com/wp-content/uploads/claywirecomb_2.jpg" alt="Logo" width=1200 height=300>
+    <img src="[https://evadformacion.com/wp-content/uploads/claywirecomb_2.jpg](https://th.bing.com/th/id/OIP.So7LmLYLj8DicepNtYwY7wHaEK?rs=1&pid=ImgDetMain)" alt="Logo" width=1200 height=300>
 
   <h1 align="center">
     Prototipos de prueba 3D
