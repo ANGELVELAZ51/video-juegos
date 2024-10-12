@@ -1,6 +1,5 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="[https://evadformacion.com/wp-content/uploads/claywirecomb_2.jpg](https://th.bing.com/th/id/OIP.So7LmLYLj8DicepNtYwY7wHaEK?rs=1&pid=ImgDetMain)" alt="Logo" width=1200 height=300>
 
   <h1 align="center">
     Prototipos de prueba 3D
@@ -33,18 +32,19 @@
 
 * Lección 1
   * > El carro hacia adelante en la pista esquivando los obstaculos que se presentan, ya sean rocas, objetos de carretera, barriles, etc.
-
-### Resultado de la lección 1
-<img src="img/resultados/prototipo1.png" alt="Prototipo 1" width="1200" height="300">
+- [Prototipo 1](https://github.com/ANGELVELAZ51/video-juegos/blob/main/Prototipo%201.unitypackage)
 
 * Lección 2
   * > El humano descide alimentar a sus animales con carne, lanzandola hacia ellos mientras los animales se dirigen hacia él, una vez que se los animales tocan la comida se destruye el objeto.
+- [Prototype 2 - Starter Files](https://github.com/ANGELVELAZ51/video-juegos/blob/main/Prototype-2_Starter-Files.unitypackage)
+- [Pasos de Prototipo 2](https://github.com/ANGELVELAZ51/video-juegos/blob/main/Pasos%20de%20prototipo%202.pdf)
+- 
+* Challenge 1
+* > Consiste en agregar las funcionalidades correctas como avanzar en linea recta a un costado, que la camara lo siga y que la helice gire de acuerdo a una velocidad que se planteo. 
+- [Challenge 1 - Start](https://github.com/ANGELVELAZ51/video-juegos/blob/main/Challenge-1_Start.unitypackage)
 
-### Resultado de la lección 2
-<img src="img/resultados/prototipo2.png" alt="Prototipo 2" width="1200" height="300">
 
-
-## Autores
+## Autor
 Angel Gerardo Velazquez Salazar 
 ## Copyright
 Derechos Reservados 2024
